@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292395098884",
+    "project_id": "fir-firestoredatabase2",
+    "storage_bucket": "fir-firestoredatabase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292395098884:android:45736d40c685a630c7a651",
+        "android_client_info": {
+          "package_name": "com.mrcaracal.firebasefirestoredatabase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292395098884-eibocit3ua4lvl2dfmshke6ob9j5g1g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWe3J5NDfTOAiVZ261420xd_c6beymho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292395098884-eibocit3ua4lvl2dfmshke6ob9j5g1g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

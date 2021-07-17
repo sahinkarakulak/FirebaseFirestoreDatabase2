@@ -1,0 +1,2 @@
+rootProject.name = "FirebaseFirestoreDatabase2"
+include ':app'
